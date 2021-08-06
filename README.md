@@ -6,3 +6,5 @@
 - 📌 Gurarujá, São Paulo
 - 👨🏽‍💻 Student
 - 👶🏽 14 y.o
+
+![SnakeAnimation]https://github.com/rianrr
