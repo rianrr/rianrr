@@ -7,4 +7,4 @@
 - 👨🏽‍💻 Student
 - 👶🏽 14 y.o
 
-![SnakeAnimation]https://github.com/rianrr
+![Snakea animation](https://github.com/rianrr/rianrr/blob/output/github-contribution-grid-snake.svg)
