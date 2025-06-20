@@ -1,3 +1,3 @@
-# Hey, I'm Rian Ribeiro.
+# Hey, I'm Rian.
 
 ### Studying
